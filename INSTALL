@@ -1,0 +1,9 @@
+Building HeavyCoin
+
+See doc/readme-qt.rst for instructions on building heavycoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HeavyCoin.
+
+See doc/build-*.txt for instructions on building heavycoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of HeavyCoin.
